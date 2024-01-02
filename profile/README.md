@@ -8,7 +8,7 @@
 <br />
 
 <div align="center">
-The offical organization of the Developer Hub Discord Server. This organization is used to host all of the projects that are used by the Developer Hub Discord Server. This includes the bot, website, and more.
+The offical Developer Hub GitHub organization. This organization is used to host and develop all of the projects that are used by the Developer Hub Discord Server. This includes the bot, website, and more.
 </div>
 
 <br />
