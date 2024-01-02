@@ -1,6 +1,6 @@
 <div align="center" style="margin-top: 20px">
   <a href="https://github.com/Developer-Hub-Community/hosting-system">
-        <img src="images/developer_hub_no_bg.png" alt="Logo" width="120" height="120" />
+        <img src="https://github.com/Developer-Hub-Community/.github/blob/7baa002bb09c46f9fc5f6ca9788f80002ab826a1/profile/developer_hub_no_bg.png" alt="Logo" width="180" height="180" />
     </a>
     <h1 style="margin-top: 0">Developer Hub</h1>
 </div>
